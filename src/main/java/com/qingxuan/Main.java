@@ -11,4 +11,7 @@ public class Main {
     public void tired(){
         System.out.println("痛苦");
     }
+    public void excite(){
+        System.out.println("兴奋");
+    }
 }
