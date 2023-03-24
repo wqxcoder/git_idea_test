@@ -8,4 +8,7 @@ public class Main {
     public void method1(){
         System.out.println("新方法1");
     }
+    public void tired(){
+        System.out.println("痛苦");
+    }
 }
