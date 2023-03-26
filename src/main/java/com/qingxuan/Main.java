@@ -3,6 +3,7 @@ package com.qingxuan;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        System.out.println("有本事把我拉下来");
     }
 
     public void method1(){
