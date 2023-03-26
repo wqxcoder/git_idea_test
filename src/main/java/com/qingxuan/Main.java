@@ -15,4 +15,7 @@ public class Main {
     public void excite(){
         System.out.println("兴奋");
     }
+    public void gitee_excite(){
+        System.out.println("gitee 兴奋");
+    }
 }
